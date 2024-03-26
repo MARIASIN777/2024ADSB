@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.base:RulePackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.base="http://ilog.rules.studio/model/base.ecore">
+  <name>WeightSum</name>
+  <uuid>f4bace9e-b885-4379-a22f-6833dbf2c3a6</uuid>
+</ilog.rules.studio.model.base:RulePackage>
